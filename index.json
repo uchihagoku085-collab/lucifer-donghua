@@ -1,0 +1,10 @@
+
+{
+  "name": "Lucifer Donghua Index",
+  "modules": [
+    {
+      "id": "lucifer-donghua-v1",
+      "packageUrl": "https://github.com/uchihagoku085-collab/lucifer-donghua/raw/main/lucifer-donghua-v1.zip"
+    }
+  ]
+}
