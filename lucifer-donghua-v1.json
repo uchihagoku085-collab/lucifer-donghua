@@ -1,0 +1,25 @@
+
+{
+  "id": "lucifer-donghua-v1",
+  "name": "Lucifer Donghua",
+  "contentType": "video",
+  "contractVersion": 3,
+  "moduleVersion": "0.1.0",
+  "releaseTrack": "stable",
+  "moduleFamilyId": "lucifer_donghua_v1",
+  "moduleIdentity": "SP-VID-901-LUCIFER-DONGHUA",
+  "moduleIdentityNumber": 901,
+  "config": {
+    "runtime": {
+      "entry": "index.js",
+      "mode": "local"
+    },
+    "caps": {
+      "homeMaxResults": 30,
+      "maxResponseBytes": 524288,
+      "timeoutMs": 30000,
+      "maxConcurrentRequests": 3
+    },
+    "baseUrl": "https://luciferdonghua.org"
+  }
+}
